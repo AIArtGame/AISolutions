@@ -4,7 +4,17 @@
   "solutions": [
     {"id": 1, "word": "natural", "url": "https://mj-gallery.com/da0db970-c7b4-489b-af06-73772400a610/grid_0.png"},
     {"id": 2, "word": "drawing", "url": "https://mj-gallery.com/434f7aef-7b1b-48ed-b81d-32679a1e6d0c/grid_0.png"},
-    {"id": 3, "word": "academy", "url": "https://mj-gallery.com/f7036951-2736-4523-8f0f-e214ae40a29d/grid_0.png"}
+    {"id": 3, "word": "academy", "url": "https://mj-gallery.com/f7036951-2736-4523-8f0f-e214ae40a29d/grid_0.png"},
+    {"id": 4, "word": "macaque", "url": "https://mj-gallery.com/bda7d29f-f971-4294-b038-93ff480b58d6/grid_0.png"},
+    {"id": 5, "word": "kabukis", "url": "https://mj-gallery.com/c8325d24-8b4d-49a1-a73e-0f2122dea105/grid_0.png"},
+    {"id": 6, "word": "iceberg", "url": "https://mj-gallery.com/74b76993-1014-44dc-827f-67232f7d4377/grid_0.png"},
+    {"id": 7, "word": "habitat", "url": "https://mj-gallery.com/cd009f20-3669-44b0-b029-21fd6db0c80f/grid_0.png"},
+    {"id": 8, "word": "artemis", "url": "https://mj-gallery.com/e35212b5-f832-428b-a723-d18a613e7c27/grid_0.png"},
+    {"id": 9, "word": "jupiter", "url": "https://mj-gallery.com/d8484f1a-f80b-4dba-a704-f11b27728e3f/grid_0.png"},	
+    {"id": 10, "word": "quasars", "url": "https://mj-gallery.com/1f49b68d-1f5f-429d-9b88-df64cc11f681/grid_0.png"},
+    {"id": 11, "word": "radiate", "url": "https://mj-gallery.com/1c068cff-36c6-411d-abbb-eb336228971a/grid_0.png"},
+    {"id": 12, "word": "safari", "url": "https://mj-gallery.com/8921b945-a234-40ea-bc46-d63eae695e27/grid_0.png"},
+    {"id": 13, "word": "fabrics", "url": "https://mj-gallery.com/13e4b48a-8eee-4310-9408-eaacd6649e04/grid_0.png"}
   ]
 
 }
